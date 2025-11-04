@@ -1,5 +1,4 @@
 **Bioinformatics Annotation Pipeline**
-
 This notebook (Bioinfo.ipynb) automates the process of annotating dog (CanFam3) and cat (FelCat9) genomic regions from BED files using official NCBI RefSeq GTF data. It collects gene information, summaries, and GO terms for each region - all in one clean, organized Excel output.
 
 **What This Does**
